@@ -29,3 +29,38 @@ Having a suitable trading plan is one of the most important aspects of trading. 
 ### Time commitment
 
 * Before you get down to the real business of trading, it's sensible to work out how much time you can commit to it.
+* Individuals looking to make a large number of trades per day, for example, will need to dedicate a lot more time to trading than investors looking to buy assets that will appreciate over several years.
+* It's also important to spend enough time preparing yourself for trading, which includes education, practising your strategies and analysing the markets.
+
+### Trading goals
+
+* To be effective, trading goals need to be Specific, Measurable, Attainable, Relevant and Time-bound. In short, they need to be SMART:
+* ***S***: Specific;
+* ***M****: Measurable;
+* ***A***: Attainable;
+* ***R***: Relevant;
+* ***T****: Time-Bound
+
+### Attitude to risk
+
+* Market prices are always changing and even the safest financial instruments carry some degree of risk.
+* Before you start trading, it is important to work out how much risk you are prepared to take on, both for each individual trade and over your trading strategy as a whole.
+* Your attitude to risk usually goes hand-in-hand with your trading goals.
+
+### Trading capital
+
+* Specifically your money and how much of it you can afford to dedicate to trading. This is your ***trading capital***.
+* It should go without saying, but it's vital that you ***don't risk more than you can afford to lose***.
+* You always need to make sure you can afford the maximum potential loss on every trade, so do the maths every time you open a position.
+
+### Markets to trade
+
+* Research is an essential part of trading, so it makes sense to begin by looking at the markets you have a particular interest in.
+* It is also crucial to look at: ***Trading times***; ***Volatility***, on average, how many points does this market move in an hour/day/week; ***Position/contract size***, how much will you gain or lose for every point of movement in the price?
+* If these factors don't fit with how you want to trade, or your attitude
+
+### Record keeping 
+
+* For a trading plan to work, it needs to be backed up by a trading diary. This is where you record everything that happens during a trade, including why you entered it, the expected profit and maximum risk, the entry point, exit point and how the market behaved during the trade.
+* Record keeping also enables you to see how you are performing over a period of time: Are you generally profitable or are you losing money? What's your win percentage? When you win, is it usually by more or less than when you lose? Are particular markets/times of day/trade setups more profitable than others?
+
