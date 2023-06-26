@@ -64,3 +64,7 @@ Having a suitable trading plan is one of the most important aspects of trading. 
 * For a trading plan to work, it needs to be backed up by a trading diary. This is where you record everything that happens during a trade, including why you entered it, the expected profit and maximum risk, the entry point, exit point and how the market behaved during the trade.
 * Record keeping also enables you to see how you are performing over a period of time: Are you generally profitable or are you losing money? What's your win percentage? When you win, is it usually by more or less than when you lose? Are particular markets/times of day/trade setups more profitable than others?
 
+## What is risk management?
+
+* One of the key parts to a successful trading plan is to ensure you manage your risk properly because, as any trader who's been in the game for long enough will know, you can't get it right every time.
+
