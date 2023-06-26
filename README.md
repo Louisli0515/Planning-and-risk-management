@@ -67,4 +67,15 @@ Having a suitable trading plan is one of the most important aspects of trading. 
 ## What is risk management?
 
 * One of the key parts to a successful trading plan is to ensure you manage your risk properly because, as any trader who's been in the game for long enough will know, you can't get it right every time.
+* Risk is defined as ***the potential for the actual return on an investment to be lower than the expected return***.
 
+### Market risk
+
+The four factors that have the greatest impact on market prices are:
+
+* Interest rates;
+* Stock prices;
+* Foreign exchange rates;
+* Commodity prices
+
+* As most commodities are denominated in US dollars, the strength of the dollar will have a significant bearing on commodity prices and in turn the stock itself.
