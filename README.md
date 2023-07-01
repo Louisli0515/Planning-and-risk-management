@@ -79,3 +79,16 @@ The four factors that have the greatest impact on market prices are:
 * Commodity prices
 
 * As most commodities are denominated in US dollars, the strength of the dollar will have a significant bearing on commodity prices and in turn the stock itself.
+
+### Liquidity risk
+
+This is the risk that you can't buy or sell an asset quickly enough to prevent a loss. There are two main types:
+
+* ***Asset liquidity risk***: the asset's ability to be traded in the market. For example, you hold a little-known stock and nobody wants to buy it, you may be forced to sell at a less favourable price. This type of risk tends only to be an ***issue in emerging*** or ***low-volume markets***.
+* ***Funding liquidity risk***: it is the potential for loss if one of the parties involved in a trade cannot meet their financial obligations when they need to. The resulting time delay could have an impact on market prices, or may cause the trade to fall through altogether.
+
+### Systemic risk
+
+* Systemic risk is the risk that the entire financial system will be affected by a particular event or series of events.
+* This occurred during the global financial crisis of 2008, where subprime debt issues and the subsequent collapse of major financial institutions, such as Lehman Brothers, caused stock markets to drop worldwide.
+* Systemic risk is often very difficult to protect yourself against. Other examples of systemic risk can include natural disasters, war and major political or regulatory change.
