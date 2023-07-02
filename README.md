@@ -128,4 +128,13 @@ This is the risk that you can't buy or sell an asset quickly enough to prevent a
 
 * Some guidance says that don't risk more than ***1%*** of your trading capital per trade, while others say it's ok to go up to ***10%***.
 * If you go on a big losing streak, the amount you're risking per trade will have a huge effect on your capital and the ability to claw back your losses.
-* Say you have got $10,000 of trading capital and you are unlucky enough to lose 15 trades in a row.
+* Say you have got $10,000 of trading capital and you are unlucky enough to lose 15 trades in a row. Here's the difference between risking 2%, 5% or 10% per trade.
+
+<img src = 'https://github.com/Louisli0515/Planning-and-risk-management/assets/128298224/7189976b-3687-4af9-8c11-55c7296c9845' width = 75% height = 75%>
+
+* With 2% risk per trade, even after 15 losses you've lost less than 25% of your trading capital. It is conceivable that you can win this money back.
+* However, if you'd gone for 5% risk per trade, you'd have lost ***over half*** your initial trading capital. You'd have to more than double this amount to get to your original level.
+* With 10% risk per trade, you'd down ***over 75%*** making it extremely difficult to make back the money you've lost.
+
+* The reduction of capital after a series of losing trades is called a ***drawdown***. Based on this information, you can also work out a ***risk-per-trade*** scale.
+* 
