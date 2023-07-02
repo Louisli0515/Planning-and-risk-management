@@ -121,3 +121,11 @@ This is the risk that you can't buy or sell an asset quickly enough to prevent a
 * Most traders will probably want to keep the bulk of their investments in safe assets that provide regular returns. These are represented by the pyramid's ***base***.
 * In the middle there are medium-risk assets, which should provide a ***stable return*** and also have the ***potential*** to rise.
 * At the top are higher-risk investments which have the potential for ***huge returns*** but ***large losses*** too. The money you put into these high-risk assets should only be money that you can afford to lose without serious financial repercussions.
+
+## Ways to manage risk: part two
+
+### Calculate your maximum risk per trade
+
+* Some guidance says that don't risk more than ***1%*** of your trading capital per trade, while others say it's ok to go up to ***10%***.
+* If you go on a big losing streak, the amount you're risking per trade will have a huge effect on your capital and the ability to claw back your losses.
+* Say you have got $10,000 of trading capital and you are unlucky enough to lose 15 trades in a row.
