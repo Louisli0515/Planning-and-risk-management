@@ -92,3 +92,26 @@ This is the risk that you can't buy or sell an asset quickly enough to prevent a
 * Systemic risk is the risk that the entire financial system will be affected by a particular event or series of events.
 * This occurred during the global financial crisis of 2008, where subprime debt issues and the subsequent collapse of major financial institutions, such as Lehman Brothers, caused stock markets to drop worldwide.
 * Systemic risk is often very difficult to protect yourself against. Other examples of systemic risk can include natural disasters, war and major political or regulatory change.
+
+## Ways to manage risk: part one
+
+### Always be aware of the downside
+
+* Before you place every trade you should calculate exactly how much you stand to lose in the worst case scenario.
+* You need to keep the worst case scenario in mind, because if there's a major market event, you may be overly exposed. This is particularly important to remember when placing ***leveraged trades***, where your losses could be greater than your deposit.
+
+### Avoid emotional trading
+
+* When making trading decisions, you should distinguish between those which are rational and those which are emotional.
+* Creating a structured plan can help you manage emotional risk by providing clear guidelines and helping you maintain your discipline.
+
+### Diversify
+
+* If you often have more than one position open at any one time, you can help minimise risk by putting your money into a broad range of different investments - i.e., not putting all your eggs in one basket.
+* However, even spreading your capital across a range of different shares can't protect you from systemic risk factors that can affect the stock market as a whole.
+* Therefore, the best way to ***diversify*** is to spread your investment across asset classes. For example, you may end up having a portfolio made up of shares, commodities, property, bonds and other investments. These markets often move ***independently*** of each other, providing protection against one particular asset class underperforming.
+
+### Select riskier investments carefully
+
+* If you do end up having a portfolio of different investments, it's sensible to balance out any particularly risky trades with more stable assets.
+* The investment risk pyramid is a handy model to help you decide how to spread your risk across various financial instruments.
