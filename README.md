@@ -115,3 +115,9 @@ This is the risk that you can't buy or sell an asset quickly enough to prevent a
 
 * If you do end up having a portfolio of different investments, it's sensible to balance out any particularly risky trades with more stable assets.
 * The investment risk pyramid is a handy model to help you decide how to spread your risk across various financial instruments.
+
+<img src = 'https://github.com/Louisli0515/Planning-and-risk-management/assets/128298224/d036ce1f-bd24-41ed-8297-901fab832a1a' width = 75% height = 75%>
+
+* Most traders will probably want to keep the bulk of their investments in safe assets that provide regular returns. These are represented by the pyramid's ***base***.
+* In the middle there are medium-risk assets, which should provide a ***stable return*** and also have the ***potential*** to rise.
+* At the top are higher-risk investments which have the potential for ***huge returns*** but ***large losses*** too. The money you put into these high-risk assets should only be money that you can afford to lose without serious financial repercussions.
