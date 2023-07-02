@@ -137,4 +137,21 @@ This is the risk that you can't buy or sell an asset quickly enough to prevent a
 * With 10% risk per trade, you'd down ***over 75%*** making it extremely difficult to make back the money you've lost.
 
 * The reduction of capital after a series of losing trades is called a ***drawdown***. Based on this information, you can also work out a ***risk-per-trade*** scale.
-* 
+
+<img src = 'https://github.com/Louisli0515/Planning-and-risk-management/assets/128298224/867f99d3-6ad7-4b62-ba01-d4eef08e2d2c' width = 75% height = 75%>
+
+### Work out the risk vs reward ratio of every trade
+
+* It is possible to lose more times than you win, yet be consistently profitable. It's all down to risk vs reward.
+* To find the ratio on a particular trade, simply compare the amount of money you're risking to the potential gain.
+* A word of warning though: if you are taking on less risk for a greater potential reward, it's likely the market will have to move further in your favour to reach your maximum profit, than it will to hit your maximum loss.
+
+## Choosing your trading style
+
+* When we talk about different trading styles, we are basically referring to ***how often*** you place a trade, and ***how long*** you keep those trades running.
+* Your ***personality*** will also have a big influence over your trading style.
+
+### The four main styles
+
+
+
