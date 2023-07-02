@@ -3,6 +3,41 @@ IG Academy -- Planning and risk management
 
 https://www.ig.com/uk/ig-academy/planning-and-risk-management/what-is-a-trading-plan
 
+- [Planning-and-risk-management](#planning-and-risk-management)
+  * [What is a trading plan?](#what-is-a-trading-plan-)
+    + [Difference between a trading strategy, a trading plan and a trading diary](#difference-between-a-trading-strategy--a-trading-plan-and-a-trading-diary)
+    + [Why is a trading plan important?](#why-is-a-trading-plan-important-)
+  * [How to make a trading plan?](#how-to-make-a-trading-plan-)
+    + [Motivation](#motivation)
+    + [Time commitment](#time-commitment)
+    + [Trading goals](#trading-goals)
+    + [Attitude to risk](#attitude-to-risk)
+    + [Trading capital](#trading-capital)
+    + [Markets to trade](#markets-to-trade)
+    + [Record keeping](#record-keeping)
+  * [What is risk management?](#what-is-risk-management-)
+    + [Market risk](#market-risk)
+    + [Liquidity risk](#liquidity-risk)
+    + [Systemic risk](#systemic-risk)
+  * [Ways to manage risk: part one](#ways-to-manage-risk--part-one)
+    + [Always be aware of the downside](#always-be-aware-of-the-downside)
+    + [Avoid emotional trading](#avoid-emotional-trading)
+    + [Diversify](#diversify)
+    + [Select riskier investments carefully](#select-riskier-investments-carefully)
+  * [Ways to manage risk: part two](#ways-to-manage-risk--part-two)
+    + [Calculate your maximum risk per trade](#calculate-your-maximum-risk-per-trade)
+    + [Work out the risk vs reward ratio of every trade](#work-out-the-risk-vs-reward-ratio-of-every-trade)
+  * [Choosing your trading style](#choosing-your-trading-style)
+    + [The four main styles](#the-four-main-styles)
+  * [Position and swing trading](#position-and-swing-trading)
+    + [Position trading](#position-trading)
+    + [Swing trading](#swing-trading)
+    + [Market gaps](#market-gaps)
+  * [Day trading and scalping](#day-trading-and-scalping)
+    + [Day trading](#day-trading)
+    + [Scalping](#scalping)
+
+
 ## What is a trading plan?
 
 Having a suitable trading plan is one of the most important aspects of trading. It is vital for your trading plan to be ***personal to you***. It's no good copying someone else's plan, because that person will very likely have different goals, attitudes and ideas to you.
@@ -153,5 +188,48 @@ This is the risk that you can't buy or sell an asset quickly enough to prevent a
 
 ### The four main styles
 
+<img src = 'https://github.com/Louisli0515/Planning-and-risk-management/assets/128298224/82a026ac-f2f4-4cef-a9f1-df5bfdc27cd9' width = 75% height = 75%>
 
+## Position and swing trading
+
+### Position trading
+
+* ***Investing*** is the most recognised and traditional form of position trading, with a great many people holding long-term investments in share portfolios, funds or pension plans.
+* Before entering a trade, a position trader will often spend a considerable amount of time studying the ***fundamentals*** of the asset they're going to be trading.
+* Because of the long-term nature of these transactions, position traders tend to risk a lot more per trade than other types of trader - though with the expectation of making greater profits. Which means to be successful you need to have ***patience***, and not get spooked by short-term market moves.
+* When holding a trade for a long time, it is almost ***inevitable*** that the market will move in an unfavourable direction at some point. In these circumstances you need to have the ***resolve and conviction*** to follow the rules set out in your trading plan, waiting for the market to turn back in your favour if required.
+* What's more, if trading using leverage, you need to make sure you have ***enough starting capital*** to weather any large unfabourable price swings.
+
+### Swing trading 
+
+* Swing trading involves holding positions over several days or weeks, in an attempt to take advantage of ***medium-term*** market moves. It's the ideal style for people who want to trade fairly frequently but don't have time to spend all day monitoring the markets.
+* Both ***fundamental*** and ***technical*** analysis (the study of market movements using charts) are commonly used for swing trading, with technical analysis particularly useful for establishing stop and limit levels.
+
+### Market gaps
+
+* Market gaps occur when the price of an asset makes a sharp jump from one level to another without any trading in between.
+* These tend to occur between trading sessions, for example if the closing price of an asset one day is ***significantly higher*** or ***lower*** than its opening price of the next.
+* Market gaps can be caused by ***earning results***, ***geopolitcal events***, ***regular buying/selling pressure*** or any major news announcement with the power to move the markets.
+* They often occur in the equity and commodity markets, but are ***rarer*** in ***forex*** since it is highly liquid and trades 24 hours a day.
+
+ ## Day trading and scalping
+
+ ### Day trading
+
+ * This type of trading involves opening and closing a ***small number of trades*** in the same day.
+ * Positions are not held overnight, eliminating the exposure to large overnight moves when it could be difficult or impossible to get out of the trade - e.g. if you are in bed, or the underlying market is closed.
+ * This means day trading tends to be a very ***time-intensive*** activity, often requiring traders to check market prices, news and data regular looking for entry opportunities and exit strategies.
+ * Day traders tend to rely on ***technical analysis*** more than ***fundamental analysis***, as emerging chart patterns and indicators can often provide strong short-term signals to trade.
+ * However, if you decide to trade using this style, it's still very important to know which major ***economic events*** are coming up each day, as these frequently cause market volatility and significant shifts in sentiment and momentum.
+
+### Scalping
+
+* Scalping is the ***shortest-term*** style of trading and involves placing dozens, sometimes hundreds of trades per day. Each trade is usually held from between just ***a few seconds***, to ***a few minutes*** at the most.
+* If the market moves against you at any time, you close the trade and take a ***small loss***.
+* Pick a market trending in a particular direction so you end up ***winning more trades than you lose***. If the trend changes direction, you change the direction of your trades as well.
+* Scalping is an extremely intense form of trading requiring high levels of concentration over an extended period of time.
+* The best time to trade is generally when the market is trending strongly ***up or down*** and there's a lot of ***liquidity***.
+* When scalping you need to be particularly ***disciplned*** and not get ***distracted*** by chasing large profits or letting losses run.
+* Due to the very short-term nature of the trades, scalpers tend to use ***technical chart analysis*** almost exclusively to identiy trending markets.
+* However, you still need to be aware of which economic announcements are scehduled for that day, as any surprising data could cause markets to gap, or trends to reverse.
 
