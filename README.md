@@ -1,4 +1,4 @@
-# Planning-and-risk-management
+# Planning-and-risk-management-IG-Academy
 IG Academy -- Planning and risk management
 
 https://www.ig.com/uk/ig-academy/planning-and-risk-management/what-is-a-trading-plan
